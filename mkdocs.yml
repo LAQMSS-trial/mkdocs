@@ -1,5 +1,5 @@
 site_name: Los Alamos Quantum Materials Summer School 2025
-site_url: laqmss-trial.github.io/mkdocs
+site_url: https://laqmss-trial.github.io/mkdocs
 theme:
   name: material
 #  custom_dir: overrides
