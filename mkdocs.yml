@@ -1,0 +1,5 @@
+site_name: Los Alamos Quantum Materials Summer School 2025
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  custom_dir: overrides
