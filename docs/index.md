@@ -14,9 +14,9 @@ The 2025 Los Alamos Quantum Materials Summer School will expose students to mode
 * Primer in Many-Body Theory
 * Numerical Approach to the Many-Body Problem
 * Extensions to DFT: DMFT, Gutzwiller
-* Background of Modern Experimental
-* Spectroscopies: ARPES, STM, RIXS, Neutron Scattering
+* Background of Modern Experimental Spectroscopies: ARPES, STM, RIXS, Neutron Scattering
 * Introduction to Theoretical Spectroscopy
+* Introduction to Materials Informatics 
 
 ## How to Apply: www.placeholderweb.com/apply
 
@@ -27,5 +27,5 @@ The 2025 Los Alamos Quantum Materials Summer School will expose students to mode
 * Roxanne Tutchton (T-4/LANL)
 * Elizabeth Peterson (T-4/LANL)
 * Johanna Palmstrom (MPA-MAGLAB/LANL)
-* Yue (MPA-CINT/LANL)
+* Yue Huang (MPA-CINT/LANL)
 * Ying Wai Li (CCS-7/LANL)
