@@ -7,6 +7,7 @@ title: Los Alamos Quantum Materials Summer School 2025
 ---
 
 <img src="assets/images/background.jpg">
+![Background image](assets/images/background.jpg)
 
 # Los Alamos Quantum Materials Summer School 2025 - From Crystals to Spectra: Closing the Loop Between Experiment and Theory
 

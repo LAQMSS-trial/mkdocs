@@ -5,7 +5,7 @@ site_url: https://laqmss-trial.github.io/mkdocs
 # Mkdocs Theme (Material Mkdocs)
 theme:
   name: material
-  #custom_dir: overrides
+  custom_dir: overrides
   palette:
     primary: "pink"
     accent: "pink"
