@@ -1,9 +1,18 @@
+---
+hide:
+  - navigation
+  - toc
+title: Los Alamos Quantum Materials Summer School 2025
+#template: home.html
+---
+<img src="/Users/ywl/Documents/LACMSS/material-for-mkdocs/assets/images/background.jpg">
+![background image]("/Users/ywl/Documents/LACMSS/material-for-mkdocs/assets/images/background.jpg")
 
 # Los Alamos Quantum Materials Summer School 2025 - From Crystals to Spectra: Closing the Loop Between Experiment and Theory
 
 **Los Alamos National Laboratory will host the 2025 Los Alamos Quantum Materials Summer School in Los Alamos, New Mexico in SUMMER 2025.**
 
-The 2025 Los Alamos Quantum Materials Summer School will expose students to modern and emerging theoretical and experimental techniques, as well as their application to problems in the physical sciences and engineering. The school will have a focus on high-resolution spectroscopies and modeling of the interplay between spin, charge, orbital, and lattice degrees of freedom. The school will consist of two weeks of courses and an eight-week research project. One year of graduate level quantum mechanics recommended. Research stipend provided.
+The 2025 Los Alamos Quantum Materials Summer School will expose students to modern and emerging theoretical and experimental techniques, as well as their application to problems in the physical sciences and engineering. The school will have a focus on high-resolution spectroscopies and modeling of the interplay between spin, charge, orbital, and lattice degrees of freedom. The school will consist of two weeks of courses. One year of graduate level quantum mechanics recommended. Research stipend provided.
 
 ## Curriculum Topics
 

@@ -1,5 +1,27 @@
+# Project Information
 site_name: Los Alamos Quantum Materials Summer School 2025
-#site_url: https://laqmss-trial.github.io/mkdocs
+site_url: https://laqmss-trial.github.io/mkdocs
+
+# Mkdocs Theme (Material Mkdocs)
 theme:
   name: material
-#  custom_dir: overrides
+  #custom_dir: overrides
+  palette:
+    primary: "pink"
+    accent: "pink"
+  #logo: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.top
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - overrides/extra.css
+
+nav:
+  - Home: index.md
+  - Apply: apply.md
+  - Program: program.md
