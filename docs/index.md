@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: Los Alamos Quantum Materials Summer School 2025
+title: Los Alamos Computational Condensed Matter Summer School 2025
 #template: home.html
 ---
 
@@ -11,28 +11,41 @@ title: Los Alamos Quantum Materials Summer School 2025
 </p>
 
 
-# Los Alamos Quantum Materials Summer School 2025 - From Crystals to Spectra: Closing the Loop Between Experiment and Theory
+# Los Alamos Computational Condensed Matter Summer School 2025 - From Crystals to Spectra
 
-**Los Alamos National Laboratory will host the 2025 Los Alamos Quantum Materials Summer School in Los Alamos, New Mexico in SUMMER 2025.**
+**Los Alamos National Laboratory will host the 2025 Los Alamos Computational Condensed Matter Summer School in Los Alamos, New Mexico in SUMMER 2025.**
 
-The 2025 Los Alamos Quantum Materials Summer School will expose students to modern and emerging theoretical and experimental techniques, as well as their application to problems in the physical sciences and engineering. The school will have a focus on high-resolution spectroscopies and modeling of the interplay between spin, charge, orbital, and lattice degrees of freedom. The school will consist of two weeks of courses. One year of graduate level quantum mechanics recommended. Research stipend provided.
+## Overview
+An increasing number of modern applications of physics, chemistry, materials science, and engineering rely on materials that exhibit manifestations of quantum physics. These quantum materials hold the key not only to new advanced technologies but also to raise fundamental questions about the microscopic physical world. To understand such systems, it has become increasingly necessary to employ a combination of high-resolution spectroscopies and theoretical modeling of the interplay of spin, charge, orbital, and lattice degrees of freedom in parallel to disentangle the rich tapestry of complex properties. This summer school aims to expose students to modern and emerging theoretical and experimental techniques, as well as their application to problems in the physical sciences and engineering. Lectures will be pedagogical, covering (i) the background quantum mechanical and many-body theory necessary to understand modern computational methods (e.g. second quantization, Green’s functions, and functional integrals), (ii) introduce emerging material informatics and ML/Ai tools, and (iii) in-depth tutorial on key experimental techniques (e.g. ARPES, STM, RIXS, Neutron Scattering, Optical Spectroscopy), along with their theoretical underpinnings. Topics will be presented in a logical sequence to ensure all students are on the same footing. Extensive hands-on training using open-source codes will be an integral part of the school. Additionally, the students will visit three user facilities to show how the techniques learned in the classroom translate to real scientific problems. This school is open to both theoretical and experimental students who have completed at least one year of graduate work and is familiar with advanced quantum mechanics and statistical mechanics. Each student will have the opportunity to present their work to encourage in-depth discussion. Questions are encouraged, free time, and hands-on sessions give ample time for students to interact with Faculty and with each other. This school will help train the next generation of researchers to use and develop these tools and methods in their own research programs.
 
-## Curriculum Topics
+## Goal
+The 2025 Los Alamos Computational Condensed Matter Summer School will expose students to modern and emerging theoretical, computational, and experimental techniques, and gain hands-on training in applying these approaches to current problems in the physical sciences and engineering.
 
+## Duration
+Two-week program of lectures/hands-on learning.
+
+## Topics Covered
 * Foundations of Density Functional Theory
 * Determination of Electronic Structure
 * Predicting Properties from Electronic Structure
 * The Effect of Electronic Correlations
 * Primer in Many-Body Theory
 * Numerical Approach to the Many-Body Problem
-* Extensions to DFT: DMFT, Gutzwiller
-* Background of Modern Experimental Spectroscopies: ARPES, STM, RIXS, Neutron Scattering
+* Extensions to DFT: DMFT, Gutzwiller 
+* Background of Modern Experimental Spectroscopies, e.g. ARPES, STM, RIXS, Neutron Scattering, Optical Spectroscopy
 * Introduction to Theoretical Spectroscopy
-* Introduction to Materials Informatics 
+* Specialized HPC platforms for Ai/ML 
+* Material Informatics and ML/AI for Quantum Materials
+
 
 ## How to Apply: www.placeholderweb.com/apply
 
-## Application Deadline: October, 2024
+## Important Dates:
+* Application deadline: October, 2024
+* ...
+* ...
+
+
 
 ## Organizers
 * Christopher Lane (T-4/LANL)
@@ -41,3 +54,6 @@ The 2025 Los Alamos Quantum Materials Summer School will expose students to mode
 * Johanna Palmstrom (MPA-MAGLAB/LANL)
 * Yue Huang (MPA-CINT/LANL)
 * Ying Wai Li (CCS-7/LANL)
+
+
+## Sponsors
